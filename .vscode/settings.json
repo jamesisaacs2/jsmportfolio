@@ -1,0 +1,7 @@
+{
+	"editor.tabSize": 3,
+	"editor.formatOnSave": true,
+	"editor.minimap.maxColumn": 47,
+	"prettier.printWidth": 77,
+	"editor.scrollbar.verticalScrollbarSize": 12
+}
